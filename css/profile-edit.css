@@ -1,0 +1,49 @@
+.edit-title {
+    font-weight:bold;
+    font-size:25px;
+    padding:60px;
+}
+.main-edit-profile {
+    border-radius:3px;
+    background-color:white;
+    width:80%;
+    margin:0% 10%;
+    display:flex;
+    border:1px solid mediumpurple;
+}
+.edit-left {
+    width:60%;
+    padding:20px;
+}
+.edit-right {
+    padding:20px;
+    width:40%;
+    border-left:1px solid mediumpurple;
+
+}
+.edit-profile-picture {
+    font-weight:bold;
+
+}
+.edit-text {
+    margin-top:60px;
+    font-weight:bold;
+}
+.edit-profile-picture input {
+    width:80%;
+    padding:7px;
+    border-radius:3px;
+    border:1px solid blue;
+}
+.edit-text input {
+    width:80%;
+    padding:7px;
+    border-radius:3px;
+    border:1px solid blue;
+}
+.edit-text textarea {
+    width:80%;
+    padding:7px;
+    border-radius:3px;
+    border:1px solid blue;
+}

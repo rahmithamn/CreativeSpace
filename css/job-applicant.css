@@ -1,0 +1,63 @@
+.applicants {
+    margin-top:40px;
+}
+.applicants span {
+    background-color: slateblue;
+    color:white;
+    padding:5px 10px;;
+    border-radius:3px;
+    margin-left:3px;
+}
+.table-applicant {
+    margin-top:20px;
+}
+.table-applicant tr:first-child {
+    background-color:lavender;
+    border:none;
+    font-weight:bold;
+}
+.applicant-profile {
+    background-color:lavender;
+
+}
+.applicant-img img {
+    width:30px;
+    height:30px;
+    border-radius:50%;
+}
+.applicant-uname {
+    padding:5px 10px;
+}
+.applicant-uname a {
+    text-decoration:none;
+    color:black;
+}
+.table-ex {
+    margin-top:10px;
+}
+input {
+    background-color:silver;
+    border:none;
+    padding:5px 10px;
+    border-radius:3px;
+}
+textarea {
+    width:100%;
+    height:120px;
+    font-family:lato;
+    border-radius:3px;
+}
+select {
+    background-color:mediumpurple;
+    color:white;
+    border:none;
+    padding:5px 10px;
+    border-radius:3px;
+}
+.input-title {
+    width:400px;
+    padding:6px 15px;
+    background-color:slateblue;
+    color:white;
+    font-size:15px;
+}
